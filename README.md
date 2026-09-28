@@ -84,13 +84,7 @@ PhonePe_Digital_Payments_Analysis/
 ├── PhonePe_Digital_Payments_Analysis.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   └── PhonePe_Digital_Payments.xlsx
-│
-└── output/
-    └── district_code_mapping.csv
+
 ```
 
 ## How to Run
